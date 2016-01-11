@@ -33,6 +33,7 @@ modules:
   collectors:
   # Uncomment the modules that you'd like to use
     # - ./modules/collectionLogger
+    # - ./modules/collectionVerboseLogger
     # - ./modules/statsd
     # - ./modules/openTSDB
     # - ./modules/influxdb
