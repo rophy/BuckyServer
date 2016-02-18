@@ -1,0 +1,10 @@
+{
+	"apps": [{
+		"name": "BuckyServer",
+		"max_memory_restart": "128M",
+		"log_date_format": "YYYY-MM-DD HH:mm:ss SSS",
+		"script": "start.js",
+		"out_file": "app.log",
+		"error_file": "err.log"
+	}]
+}
